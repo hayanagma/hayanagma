@@ -28,5 +28,5 @@ JWT / OAuth2 · Spring Cloud Gateway · Flyway · Prometheus · Grafana · JUnit
 ---
 
 ### 📫 Contact
-- LinkedIn: [linkedin.com/in/joakim-barkfjärd/](https://linkedin.com/in/joakim-barkfjärd/)  
+- LinkedIn: [linkedin.com/in/joakim-barkfjärd](https://linkedin.com/in/joakim-barkfjärd)  
 - Email: `hayanagmaofficial@gmail.com`  
