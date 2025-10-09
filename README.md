@@ -7,7 +7,7 @@ Proficient in **Kubernetes orchestration**, **reactive WebFlux/MVC architectures
 ---
 
 ### 🏗️ Project Highlight
-**[Distributed Reactive Authentication Backend](https://github.com/<your-username>/<repo-name>)**  
+**[Distributed Reactive Authentication Backend](https://github.com/hayanagma/auth-microservice-architecture)**  
 A modular microservice system featuring **gateway routing**, **JWT-based security**, **role-based player/admin modules**, **Redis messaging**, **Dockerized deployment**, **Flyway-managed SQL databases**, and **mock blockchain wallet authentication** built around the **Tron** network.
 
 ---
