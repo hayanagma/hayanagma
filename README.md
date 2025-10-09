@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🧩 Certified Java Spring Boot Backend Engineer
 
-<!--
-**hayanagma/hayanagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certified Software Developer (Yrkeshögskola, Sweden) specializing in **REST/JSON APIs**, **Redis messaging**, and **Dockerized modular microservices** with shared code modules for DTOs and domain logic.  
+Experienced with **SQL databases (Flyway migrations)**, **JWT/OAuth2 security**, **Spring Cloud Gateway routing**, **Cloud infrastructure**, and **VPS management**.  
+Proficient in **Kubernetes orchestration**, **reactive WebFlux/MVC architectures**, **Prometheus & Grafana monitoring**, and **automated testing** using **JUnit** and **Testcontainers**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Project Highlight
+**[Distributed Reactive Authentication Backend](https://github.com/<your-username>/<repo-name>)**  
+A modular microservice system featuring **gateway routing**, **JWT-based security**, **role-based player/admin modules**, **Redis messaging**, **Dockerized deployment**, **Flyway-managed SQL databases**, and **mock blockchain wallet authentication** built around the **Tron** network.
+
+---
+
+### 💼 Professional Work
+Independently built and deployed a fully operational **modular backend** for a gaming and transactional platform featuring **microservice isolation**, **centralized authentication**, **inter-service communication via Redis**, **SQL persistence with Flyway migrations**, **reactive WebFlux architecture**, and **containerized orchestration through Docker and Kubernetes**.  
+Due to confidentiality, the full production system cannot be shared publicly, but **code samples and architectural overviews** are available on request.
+
+Additionally, I have developed multiple **backend applications and internal systems** across various domains.  
+Source code for client projects is not publicly available due to confidentiality agreements.
+
+---
+
+### ⚙️ Core Skills
+Java 21 · Spring Boot 3 · WebFlux & MVC · Redis · PostgreSQL · Docker · Kubernetes
+JWT / OAuth2 · Spring Cloud Gateway · Flyway · Prometheus · Grafana · JUnit · Testcontainers
+
+---
+
+### 📫 Contact
+- LinkedIn: [linkedin.com/in/joakim-barkfjärd/](https://linkedin.com/in/joakim-barkfjärd/)  
+- Email: `hayanagmaofficial@gmail.com`  
