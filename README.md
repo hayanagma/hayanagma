@@ -10,7 +10,7 @@ Proficient in **Kubernetes orchestration**, **reactive WebFlux/MVC architectures
 **[Distributed Reactive Authentication Backend](https://github.com/hayanagma/auth-microservice-architecture)**  
 A modular microservice system featuring **gateway routing**, **JWT-based security**, **role-based player/admin modules**, **Redis messaging**, **Dockerized deployment**, **Flyway-managed SQL databases**, and **mock blockchain wallet authentication** built around the **Tron** network.
 
-### **Onchain Trading Application**
+**[Onchain Trading Application](https://github.com/hayanagma/onchain-trader)**
 A fullstack project developing a modular backend for automated onchain trading with a modern frontend interface.  
 Built with Spring Boot microservices, Docker/Kubernetes orchestration, Redis caching, and blockchain API integrations for wallet verification and trade execution.
 
