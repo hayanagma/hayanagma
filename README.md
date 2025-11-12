@@ -12,7 +12,7 @@ A modular microservice system featuring **gateway routing**, **JWT-based securit
 
 **[Onchain Trading Application](https://github.com/hayanagma/onchain-trader)**   
 A fullstack project developing a modular backend for automated onchain trading with a modern frontend interface.  
-Built with Spring Boot microservices, Docker/Kubernetes orchestration, Redis caching, and blockchain API integrations for wallet verification and trade execution.
+Built with Spring Boot microservices, Docker/Kubernetes orchestration, Redis caching, RabbitMQ asynchronous communication and blockchain API integrations for wallet verification and trade execution.
 
 ---
 
@@ -26,7 +26,7 @@ Source code for client projects is not publicly available due to confidentiality
 ---
 
 ### ⚙️ Core Skills
-Java 21 · Spring Boot 3 · WebFlux & MVC · Redis · PostgreSQL · Docker · Kubernetes
+Java 21 · Spring Boot 3 · WebFlux & MVC · Redis · RabbitMQ · PostgreSQL · MongoDB · Docker · Kubernetes
 JWT / OAuth2 · Spring Cloud Gateway · Flyway · Prometheus · Grafana · JUnit · Testcontainers
 
 ---
